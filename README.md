@@ -41,6 +41,7 @@
 - 로그인 시 다양한 유효성 검사 (양식검사, 중복검사, 아이디/비밀번호 불일치 검사)
 - 검사 통과하지 못할 경우 알림창 출력
 - 양식 검사, 중복 검사 통과할 경우 사용 가능
+- 로그인 성공 시, 메인 페이지로 이동
 ![Screen Shot 2022-03-13 at 2 04 11 PM](https://user-images.githubusercontent.com/88773996/158046001-eaf4bfad-0085-4ab1-91a4-a2dd0f4ca584.png)
 ![Screen Shot 2022-03-13 at 2 04 21 PM](https://user-images.githubusercontent.com/88773996/158046004-590c53c7-78c6-4c38-ad0b-563a7df88250.png)
 
@@ -63,6 +64,8 @@
 - 장바구니 페이지 렌더링 시 fetch함수를 이용해서 백엔드로부터 장바구니 데이터 받아옴
 ![Screen Shot 2022-03-13 at 2 08 47 PM](https://user-images.githubusercontent.com/88773996/158046022-2fcae8a7-5f4b-49b7-aeff-988a2e62bd45.png)
 
+## Nav
+- Nav의 카테고리 요소를 클릭 시, 그에 맞는 URl주소로 이동하고, fetch()함수를 사용하여 쿼리스트링으로 URL를 전달
 
 ## 적용 기술
 - Common<br>

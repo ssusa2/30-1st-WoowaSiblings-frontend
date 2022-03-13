@@ -7,7 +7,7 @@
 2022.02.28.월 ~ 2022.03.11.금
 
 ## 프로젝트 참여 인원
-프론트 엔드 : 정수인, 한영현
+프론트 엔드 : 정수인, 한영현<br>
 백엔드 : 김동규, 김은지
 
 ## 필수 구현 사항
@@ -74,7 +74,8 @@
 - Frontend<br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-
+## 프로젝트 후기
+<a href="https://velog.io/@audgns9207/woowaSiblings">프로젝트를 마치며</a>
 ## Reference
 이 프로젝트는 배민 문방구 사이트를 참조하여 학습목적으로 만들었습니다.<br>
 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.<br>
